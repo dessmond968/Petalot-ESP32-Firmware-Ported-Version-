@@ -15,7 +15,7 @@ Esta versión ha sido completamente migrada a ESP32, manteniendo la funcionalida
 
 ---
 
-## 🚀 Características
+##  Características
 
 *  Interfaz web vía WiFi
 *  Modo Access Point (AP) automático
@@ -28,7 +28,7 @@ Esta versión ha sido completamente migrada a ESP32, manteniendo la funcionalida
 
 ---
 
-## 🔧 Cambios respecto al firmware original
+##  Cambios respecto al firmware original
 
 ###  Migración de plataforma
 
