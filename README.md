@@ -114,7 +114,7 @@ Permite:
 
 ---
 
-## 🧪 Estado del proyecto
+##  Estado del proyecto
 
 | Componente  | Estado            |
 | ----------- | ----------------- |
